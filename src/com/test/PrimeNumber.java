@@ -2,7 +2,7 @@ package com.test;
 
 public class PrimeNumber {
 	//----------------Prime Check------------------ HEAD
-//hello santosh
+//hello santosh welcome to git
 
 //		hi  'master' of https://github.com/sidhart
 
