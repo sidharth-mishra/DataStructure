@@ -1,8 +1,9 @@
 package com.test;
 
 public class PrimeNumber {
-	//----------------Prime Check------------------
+	//----------------Prime Check------------------ HEAD
 //hello santosh
+//		hi sid branch 'master' of https://github.com/sidharth-mishra/DataStructure.git
 	
 public static void main(String[] args) {
 	
