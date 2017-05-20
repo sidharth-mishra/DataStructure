@@ -2,7 +2,7 @@ package com.test;
 
 public class PrimeNumber {
 	//----------------Prime Check------------------
-	//////hiiiiiii
+
 	
 public static void main(String[] args) {
 	
