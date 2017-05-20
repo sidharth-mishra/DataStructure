@@ -1,7 +1,7 @@
 package com.test;
 
 public class PrimeNumber {
-	
+	//----------------Prime Check------------------
 	
 public static void main(String[] args) {
 	
