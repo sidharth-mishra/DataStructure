@@ -3,7 +3,7 @@ package com.test;
 public class PrimeNumber {
 
 //hello santosh welcome to git
-
+//hello dhiti...........
 	
 public static void main(String[] args) {
 	
