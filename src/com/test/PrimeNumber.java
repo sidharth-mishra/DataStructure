@@ -1,7 +1,9 @@
 package com.test;
 
 public class PrimeNumber {
-	///New comment
+
+//hello santosh welcome to git
+
 	
 public static void main(String[] args) {
 	
