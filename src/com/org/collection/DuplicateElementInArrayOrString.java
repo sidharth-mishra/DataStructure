@@ -35,7 +35,7 @@ for(int i=0;i<stringData.length;i++)	{
 		return stringData[i];
 	}
 }
-		return 0;
+		return (Character) null;
 		
 	}
 
